@@ -41,9 +41,13 @@ Once inside the interface, I can view all 4 connected cams, pan and zoom them, g
 
 By searching the model number, I found that these cameras were made by a company called **xmartO**
 
+![xmartO](https://github.com/rebeccauliasz/xmartO-data-tracing-/blob/master/Screen%20Shot%202017-09-27%20at%2011.08.07%20AM.png)
+
 
 
 Research into xmartO reveals that they are a newish company, opened in 2015 and based out of Hong Kong. Their system uses an IP camera/ NVR (Network Video Receiver) model that can either connect to a router or serve as a router itself. Research into the system yielded the following flowchart: 
+
+![flowchart](https://github.com/rebeccauliasz/xmartO-data-tracing-/blob/master/xmartO%20IP%20Camera%20-%20Page%201.png)
 
 It is unclear, based on the provided information, who the “3rd party” agents are. It seems problematic, considering how easily private information can be collected from an unsecured interface, that the company does not take tighter measures to ensure that confidential user information is not stolen. 
 

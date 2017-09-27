@@ -33,7 +33,7 @@ https://io9.gizmodo.com/5933966/wikileaks-reveals-trapwire-a-government-spy-netw
 
 Insecam is down at the time of my writing this, but I had given a talk a few months ago and had some IP addresses of unsecured cams saved in my notes (yes, I know this is very creepy, but I was trying to argue a point). I checked all the links and found that all of them were dead now (good, maybe Insecam is working?) except for one, which brought up the interface when I followed it. The default username was “admin” and it was not password protected 
 
-! [Image of interface]
+![Image of interface]
 (https://github.com/rebeccauliasz/xmartO-data-tracing-/blob/master/Screen%20Shot%202017-09-27%20at%2011.00.36%20AM.png)
 
 

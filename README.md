@@ -1,11 +1,11 @@
 # xmartO-data-tracing
 Assignment for Physical Comptuing, 9_27
 
-##Unsecured Camera List 
+## Unsecured Camera List 
 
 https://reolink.com/unsecured-ip-camera-list/
 
-##Databases 
+## Databases 
 
 insecam.org 
 
@@ -22,11 +22,11 @@ https://www.csoonline.com/article/2224469/microsoft-subnet/hacks-to-turn-your-wi
 
 "Shekyan and Harutyunyan said DoS is yet a different attack scenario and it takes only seconds; since the camera only logs authenticated requests, there are no traces on the camera. An attacker can "grab videostream, email, FTP, MSN, Wi-Fi credentials." Malicious hackers could also host malware, or run arbitrary software such as botnets, proxies, and scanners. Another attack involves creating a backdoor by adding a hidden user to the camera and attacking a victim's browser using BeEF. These cameras are also connected to the local network, meaning that an attacker could exploit it to find and remotely hack other devices that wouldn't normally be accessible from the Internet.”
 
-###Automated attack tool: 
+### Automated attack tool: 
 
 https://github.com/artemharutyunyan/getmecamtool
 
-###TrapWire 
+### TrapWire 
 
 https://io9.gizmodo.com/5933966/wikileaks-reveals-trapwire-a-government-spy-network-that-uses-ordinary-surveillance-cameras
 
